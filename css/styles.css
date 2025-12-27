@@ -25,7 +25,7 @@
 }
 .lastSection ul li{
     color: #fff;
-    /* padding: 5px; */
+    padding-block: 5px;
     list-style: none;
     text-decoration: underline;
 }
